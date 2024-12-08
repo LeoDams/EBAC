@@ -1,0 +1,12 @@
+from os import posix_fadvise
+latlon = "-145754;-147845"
+print(latlon)
+
+posicao_divisao = latlon.find(";")
+print(posicao_divisao)
+
+latstartup = latlon[0:posicao_divisao]
+lonstartup = latlon[posicao_divisao+1:len(latlon)]
+
+print(latstartup)
+print(lonstartup)
