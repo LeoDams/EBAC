@@ -1,0 +1,4 @@
+china = ['Xiaomi','Huawei']
+korea = ['Samsung','LG']
+Fabricantes = china + korea
+print (Fabricantes)
