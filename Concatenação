@@ -1,0 +1,8 @@
+nome = "Leandro"
+sobrenome = "Damascena"
+
+Apresentação = "Olá, meu nome é: "+nome+" "+sobrenome+"."
+print(Apresentação)
+
+apres = f"Olá, meu nome é: {nome} {sobrenome}."
+print(apres)
