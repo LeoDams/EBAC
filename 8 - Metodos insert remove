@@ -8,5 +8,5 @@ print (juros)
 juros.remove (0.5)
 print (juros)
 #Remover elemento por posição
-juros.remove (0.2)
+juros.pop (2) #lembrando que o 2 é o terceiro, no caso o 0.7
 print (juros)
