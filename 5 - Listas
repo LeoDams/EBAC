@@ -1,0 +1,7 @@
+Usuario_Web = ['leandro', 'pereira', 'leandro.pereira@leandro.com.br']
+idade = 28
+saldo_em_conta = 38.145
+usuario_Loggedin = True
+
+print (Usuario_Web, idade, saldo_em_conta, usuario_Loggedin)
+print (type(Usuario_Web))
