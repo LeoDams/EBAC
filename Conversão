@@ -1,0 +1,4 @@
+email ='leandro.pereira@gmail.com'
+print(email)
+emaillista = list(email)
+print(emaillista)
