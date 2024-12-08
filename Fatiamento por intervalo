@@ -1,0 +1,6 @@
+email = "leandro.damascena@outlook.com"
+nome= email[0:17]
+provedor = email[17:30]
+print(email)
+print(nome)
+print(provedor)
